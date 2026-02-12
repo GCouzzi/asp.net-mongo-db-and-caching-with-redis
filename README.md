@@ -1,6 +1,6 @@
 # ASP.NET Core Web API com MongoDB e Redis Caching
 
-Uma aplicação ASP.NET Core 8.0 para gerenciamento de cervejas com persistência em MongoDB e caching distribuído com Redis.
+Uma CRUD básico em ASP.NET Core 8.0 para gerenciamento de cervejas com persistência em MongoDB e caching distribuído com Redis.
 
 ## 🚀 Tecnologias Utilizadas
 
